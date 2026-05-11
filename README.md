@@ -18,12 +18,12 @@ A simple Python rocket simulator that models altitude, velocity, thrust, and dra
    ```
 
 ## Example
-- Rocket mass: `2.0`
-- Thrust: `50.0`
-- Burn time: `3.0`
+- Rocket mass: `5.0`
+- Thrust: `100.0`
+- Burn time: `4.0`
 
 ## License
 MIT License
 
 ## Author
-Your Name
+Arul Sharma
